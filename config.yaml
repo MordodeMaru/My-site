@@ -13,7 +13,7 @@ copyright: '&copy;2021 Jordi Mon Companys'
 params:
   author: Jordi Mon Companys
   description: Find everything related to Product Specialist Jordi Mon. Social Media handles, blog...
-  favicon: favicon.ico
+#  favicon: favicon.ico
   links:
     - list1:
         heading: Read
@@ -50,6 +50,6 @@ params:
       file: images/JordiMon.jpeg
       position: center center
     video:
-      enable: no
+      enable: no 
       file: videos/background.mp4
       mute: yes
