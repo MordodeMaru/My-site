@@ -1,6 +1,6 @@
 ---
-tagline: Designer. Stylist. Nomad.
-title: Jenny Jones
+tagline: Product. Marketer. Director.
+title: Jordi Mon Companys 
 ---
 
-Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna]({{< ref "luctus-urna.md" >}}) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in]({{< ref "ipsum-in.md" >}}) malesuada congue, [purus sem]({{< ref "purus-sem.md" >}}) ullamcorper massa, sit amet lacinia nibh enim sed massa.
+Jordi is a Product Specialist interested in all things Product Marketing. He is a [speaker]({{< ref "public-speaking.md" >}}), an [Open Source specialist]({{< ref "public-speaking.md" >}}), a [Product Marketing Alliance ambassador]({{< ref "public-speaking.md" >}}).

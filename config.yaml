@@ -1,6 +1,6 @@
 baseURL: https://jordimon.netlify.app/
-languageCode: en-US
-title: Split - HTML Template Demo
+languageCode: en-GB
+title: Jordi Mon's personal site
 theme: hugo-split-theme
 disableKinds:
   - section
@@ -9,46 +9,45 @@ disableKinds:
   - RSS
   - sitemap
 googleAnalytics: ''
-copyright: '&copy;2021 Your Name'
+copyright: '&copy;2021 Jordi Mon Companys'
 params:
-  author: Jenny Jones
-  description: Split is a centrally-divided layout for a professional online presence
-    with a big image or video left with alongside content.
+  author: Jordi Mon Companys
+  description: Find everything related to Product Specialist Jordi Mon. Social Media handles, blog...
   favicon: favicon.ico
   links:
     - list1:
-        heading: Connect
+        heading: Read
         link:
           - text: Blog
-            url: '#'
-          - text: Email
-            url: '#'
-          - text: Newsletter
-            url: '#'
+            url: 'blog.mon.company'
+#          - text: Email
+#            url: '#'
+#          - text: Newsletter
+#            url: '#'
     - list2:
         heading: Social
         link:
           - text: Twitter
-            url: '#'
-          - text: Instagram
-            url: '#'
-          - text: Dribbble
-            url: '#'
-    - list3:
-        heading: Network
-        link:
-          - text: Link One
-            url: '#'
-          - text: Link Two
-            url: '#'
-          - text: Link Three
-            url: '#'
+            url: 'https://www.twitter.com/jordimonpmm'
+          - text: LinkedIn
+            url: 'https://www.linkedin.com/in/jordimoncompanys'
+#          - text: Dribbble
+#            url: '#'
+#    - list3:
+#        heading: Network
+#        link:
+#          - text: Link One
+#            url: '#'
+#          - text: Link Two
+#            url: '#'
+#          - text: Link Three
+#            url: '#'
   shareImage: images/social.jpg
-  twitterHandle: onepagelove
+  twitterHandle: jordimonpmm
   visual:
     image:
       enable: yes
-      file: images/background.jpg
+      file: images/JordiMon.jpeg
       position: center center
     video:
       enable: no
