@@ -19,7 +19,7 @@ params:
         heading: Read
         link:
           - text: Blog
-            url: 'blog.mon.company'
+            url: 'https://blog.mon.company/'
 #          - text: Email
 #            url: '#'
 #          - text: Newsletter
